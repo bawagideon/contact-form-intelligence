@@ -1,0 +1,12 @@
+{
+  "name": "@gideon/contact-form-intelligence",
+  "version": "1.0.0",
+  "description": "Contact Form Intelligence: Replaces dumb static forms with conversational intent extraction, budget classification, and priority routing.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "start": "node src/index.js"
+  },
+  "author": "Gideon Autonomous Workforce",
+  "license": "MIT"
+}
