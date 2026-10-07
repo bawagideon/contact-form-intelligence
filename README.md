@@ -7,6 +7,17 @@
 
 ---
 
+## 🚀 Live Interactive Simulator & Proof
+
+[![Contact Form Intelligence Live Interactive Simulator](assets/screenshot.png)](https://gideonbawa-website.netlify.app/simulators/contact-form-intelligence/)
+
+* 🌐 **Live In-Browser Simulator:** [https://gideonbawa-website.netlify.app/simulators/contact-form-intelligence/](https://gideonbawa-website.netlify.app/simulators/contact-form-intelligence/)
+* 💼 **Portfolio Showcase:** [https://gideonbawa-website.netlify.app/#work](https://gideonbawa-website.netlify.app/#work)
+* 🛡️ **Verified QA Evidence:** HMAC-SHA256 Signed Contract (`ev-qa-contract-1791285928367-contact-form-intelligence`)
+
+---
+
+
 ## 💸 Problem & Economic Pain
 Static contact forms treat a $50,000 enterprise buyer identical to a spam submission. Both wait in the same queue for 24 hours.
 
